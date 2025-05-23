@@ -3,8 +3,8 @@ import { Link } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
 import  img1  from "./picture1.png";
-import  img2  from "./picture2.png";
-import  img3  from "./picture3.png";
+import  img2  from "./Picture2.png";
+import  img3  from "./Picture3.png";
 
 const Home = () => {
   const [isLoaded, setIsLoaded] = useState(false);
